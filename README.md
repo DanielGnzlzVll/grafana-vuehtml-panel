@@ -1,4 +1,4 @@
-## Vue HTML Panel Plugin for Grafana
+## Vue HTML Panel Plugin for Grafana edit DANIEL
 
 Create a highly customizable panel using Vue.js.
 
